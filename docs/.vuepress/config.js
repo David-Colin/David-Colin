@@ -3,7 +3,7 @@ const sidebar = require('./config/sidebar')
 const plugins = require('./config/plugins')
 module.exports = {
   //站点根路径,默认配置/
-  base: '/blog-docs/',
+  base: '/David_Colin/',
   //站点语言配置
   lang: 'zh-CN',
   title: '小紫念沁',
@@ -107,7 +107,7 @@ module.exports = {
     //链接文本
     editLinkText: '在 GitHub 上编辑此页！',
     //仓库代码提交的分支,默认main
-    docsBranch: 'main'
+    docsBranch: '1.x.x'
   },
   markdown: {
     lineNumbers: true
